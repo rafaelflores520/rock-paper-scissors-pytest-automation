@@ -1,0 +1,6 @@
+__pycache__
+.venv
+.venv_latest
+assets
+*.html
+utils.txt
